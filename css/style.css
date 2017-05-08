@@ -1,5 +1,6 @@
 body {
-	background: url("pozadi.jpg") bottom repeat-x #BEE3EB;
+	background-image: url("pozadi.jpg");
+	background-repeat: repeat;
 }
 
 .wrapper {
