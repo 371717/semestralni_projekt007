@@ -1,3 +1,8 @@
+body
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
 .wrapper {
 	margin: 50px auto;
 	max-width: 800px;
