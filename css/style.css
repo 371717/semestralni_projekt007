@@ -1,11 +1,29 @@
-body {
-	background: url("img/bg_plot.png") bottom repeat-x #BEE3EB;
+body
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 }
 
 .wrapper {
 	margin: 50px auto;
 	max-width: 800px;
 	padding: 20px;
+	text-align: center;
+}
+.wrapper a
+{
+	color: #000;
+	text-decoration: none;
+}
+
+a
+{
+	text-decoration: underline;
+	color: black;
+}
+
+a:hover
+{
+	text-decoration: none;
 }
 
 .header {
@@ -23,6 +41,7 @@ body {
 nav {
 	float: left;
 	width: 15%;
+	background-color: brown;
 }
 
 nav ul {
